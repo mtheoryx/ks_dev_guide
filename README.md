@@ -257,6 +257,7 @@
 #### Local KS Settings
 
 - Create a local ks-config.xml file
+
 	```bash
 	[ -d ~/kuali/main/dev ] || { mkdir -p ~/kuali/main/dev && touch ~/kuali/main/dev;}
 	```
